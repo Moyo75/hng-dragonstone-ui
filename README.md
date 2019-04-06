@@ -4,15 +4,14 @@ HNG Internship Dragonstone Front End Subgroup
 Steps
 
     Fork the repository
-    Clone your forked copy using git clone https://github.com/hng-dragonstone-ui.git
-    CD hng
-    Run php -S localhost:8000 to start server
-    Visit localhost:8000 on browser
+    Clone your forked copy using git clone https://github.com/akintoluvic/hng-dragonstone-ui.git
+    CD hng-dragonstone-ui
 
 Making changes
 
-    CD hng on your pc
-    Create a new php file if you're working on a new page, or open an existing php page file to make updates (Note: Observe file structure and patterns, include head/nav.php where necessary)
+    CD hng-dragonstone-ui on your pc
+    Create a new file if you're working on a new page, or open an existing php page file to make updates 
+    (Note: Observe file structure and patterns, include head/nav where necessary)
     use git status to check modifications
     git add to mount the files modified
     git commit -m "Commit message"
