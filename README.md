@@ -10,7 +10,7 @@ Steps
 Making changes
 
     CD hng-dragonstone-ui on your pc
-    Create a new file if you're working on a new page, or open an existing php page file to make updates 
+    Create a new file if you're working on a new page, or open an existing page file to make updates 
     (Note: Observe file structure and patterns, include head/nav where necessary)
     use git status to check modifications
     git add to mount the files modified
